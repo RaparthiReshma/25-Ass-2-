@@ -1,0 +1,12 @@
+//Minimum value//
+
+list=[1,2,3,4,5]
+min=list[0]
+for i in list:
+    i<min
+    min=i
+print("Minimum value from list=",min)        
+
+//OUTPUT//
+Minimum value from list= 5
+> 
